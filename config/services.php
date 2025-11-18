@@ -38,6 +38,6 @@ return [
     'futebol_api' => [
         'base_url' => env('FUTEBOL_API_BASE_URL'),
         'api_key' => env('FUTEBOL_API_KEY'),
-        'brasileirao_id' => 14,
+        'brasileirao_id' => 10,
     ],
 ];
