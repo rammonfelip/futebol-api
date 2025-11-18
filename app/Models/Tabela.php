@@ -21,4 +21,5 @@ class Tabela extends Model
         'derrotas',
         'aproveitamento',
     ];
+    public $incrementing = false;
 }
